@@ -1,0 +1,10 @@
+D:\GameLibrary\GameLibrary.Common\bin\Debug\netstandard2.1\GameLibrary.Common.deps.json
+D:\GameLibrary\GameLibrary.Common\bin\Debug\netstandard2.1\GameLibrary.Common.dll
+D:\GameLibrary\GameLibrary.Common\bin\Debug\netstandard2.1\GameLibrary.Common.pdb
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.csproj.AssemblyReference.cache
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.AssemblyInfoInputs.cache
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.AssemblyInfo.cs
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.csproj.CoreCompileInputs.cache
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.dll
+D:\GameLibrary\GameLibrary.Common\obj\Debug\netstandard2.1\GameLibrary.Common.pdb

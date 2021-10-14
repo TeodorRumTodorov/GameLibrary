@@ -1,0 +1,16 @@
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Web.ViewModels.deps.json
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Web.ViewModels.dll
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Web.ViewModels.pdb
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Data.Common.dll
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Data.Models.dll
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.dll
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Data.Models.pdb
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.pdb
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\bin\Debug\netstandard2.1\GameLibrary.Data.Common.pdb
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.csproj.AssemblyReference.cache
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.AssemblyInfoInputs.cache
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.AssemblyInfo.cs
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.dll
+D:\GameLibrary\Web\GameLibrary.Web.ViewModels\obj\Debug\netstandard2.1\GameLibrary.Web.ViewModels.pdb

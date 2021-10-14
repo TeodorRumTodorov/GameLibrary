@@ -1,0 +1,16 @@
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Services.Data.deps.json
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Services.Data.dll
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Services.Data.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Data.Common.dll
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Data.Models.dll
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.dll
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Data.Common.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Data.Models.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.csproj.AssemblyReference.cache
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.AssemblyInfoInputs.cache
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.AssemblyInfo.cs
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.csproj.CoreCompileInputs.cache
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.dll
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.pdb

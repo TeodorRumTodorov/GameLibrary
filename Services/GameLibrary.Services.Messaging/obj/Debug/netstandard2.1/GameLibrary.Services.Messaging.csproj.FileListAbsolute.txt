@@ -1,0 +1,10 @@
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\bin\Debug\netstandard2.1\GameLibrary.Services.Messaging.deps.json
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\bin\Debug\netstandard2.1\GameLibrary.Services.Messaging.dll
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\bin\Debug\netstandard2.1\GameLibrary.Services.Messaging.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.csproj.AssemblyReference.cache
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.AssemblyInfoInputs.cache
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.AssemblyInfo.cs
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.dll
+D:\GameLibrary\Services\GameLibrary.Services.Messaging\obj\Debug\netstandard2.1\GameLibrary.Services.Messaging.pdb

@@ -1,0 +1,13 @@
+D:\GameLibrary\Data\GameLibrary.Data.Models\bin\Debug\netstandard2.1\GameLibrary.Data.Models.deps.json
+D:\GameLibrary\Data\GameLibrary.Data.Models\bin\Debug\netstandard2.1\GameLibrary.Data.Models.dll
+D:\GameLibrary\Data\GameLibrary.Data.Models\bin\Debug\netstandard2.1\GameLibrary.Data.Models.pdb
+D:\GameLibrary\Data\GameLibrary.Data.Models\bin\Debug\netstandard2.1\GameLibrary.Data.Common.dll
+D:\GameLibrary\Data\GameLibrary.Data.Models\bin\Debug\netstandard2.1\GameLibrary.Data.Common.pdb
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.csproj.AssemblyReference.cache
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.AssemblyInfoInputs.cache
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.AssemblyInfo.cs
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.csproj.CoreCompileInputs.cache
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.dll
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.pdb
+D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.csproj.CopyComplete

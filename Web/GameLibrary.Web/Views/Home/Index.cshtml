@@ -1,0 +1,17 @@
+﻿@model GameLibrary.Web.ViewModels.Index.EntityCount
+@using GameLibrary.Common
+@{
+    this.ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <ul>
+        <li>Categories:@Model.CategoriesCount</li>
+        <li>Games:@Model.GamesCount</li>
+        <li>Publishers:@Model.PublishersCount</li>
+        <li>Creators:@Model.CreatorsCount</li>
+        <li>AplicationUsers:@Model.AplicationUsersCount</li>
+    </ul>
+</div>

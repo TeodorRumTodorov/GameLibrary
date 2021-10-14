@@ -1,0 +1,10 @@
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\bin\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.deps.json
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\bin\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.dll
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\bin\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.pdb
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.csproj.AssemblyReference.cache
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.AssemblyInfo.cs
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.dll
+D:\GameLibrary\Web\GameLibrary.Web.Infrastructure\obj\Debug\netstandard2.1\GameLibrary.Web.Infrastructure.pdb

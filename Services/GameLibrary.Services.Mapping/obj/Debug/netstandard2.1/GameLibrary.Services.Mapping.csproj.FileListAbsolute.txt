@@ -1,0 +1,10 @@
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.deps.json
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.dll
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\bin\Debug\netstandard2.1\GameLibrary.Services.Mapping.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.csproj.AssemblyReference.cache
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.AssemblyInfoInputs.cache
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.AssemblyInfo.cs
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.csproj.CoreCompileInputs.cache
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.dll
+D:\GameLibrary\Services\GameLibrary.Services.Mapping\obj\Debug\netstandard2.1\GameLibrary.Services.Mapping.pdb
