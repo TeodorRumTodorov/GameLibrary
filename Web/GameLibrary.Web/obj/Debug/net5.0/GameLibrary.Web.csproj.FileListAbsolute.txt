@@ -464,3 +464,14 @@ D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\GameLibrary.Web.dll
 D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\ref\GameLibrary.Web.dll
 D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\GameLibrary.Web.pdb
 D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\GameLibrary.Web.genruntimeconfig.cache
+D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\Razor\Views\Publisher\Create.cshtml.g.cs
+D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\Razor\Views\Creator\Create.cshtml.g.cs
+D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\System.Web.Razor.dll
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\GameLibrary\Web\GameLibrary.Web\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\GameLibrary\Web\GameLibrary.Web\obj\Debug\net5.0\Razor\Views\Game\Create.cshtml.g.cs

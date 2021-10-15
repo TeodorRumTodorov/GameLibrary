@@ -2445,7 +2445,8 @@
         "dependencies": {
           "GameLibrary.Data.Common": "1.0.0",
           "GameLibrary.Data.Models": "1.0.0",
-          "GameLibrary.Services.Mapping": "1.0.0"
+          "GameLibrary.Services.Mapping": "1.0.0",
+          "GameLibrary.Web.ViewModels": "1.0.0"
         },
         "runtime": {
           "GameLibrary.Services.Data.dll": {}

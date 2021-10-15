@@ -20,3 +20,4 @@ D:\GameLibrary\Data\GameLibrary.Data\obj\Debug\net5.0\GameLibrary.Data.dll
 D:\GameLibrary\Data\GameLibrary.Data\obj\Debug\net5.0\ref\GameLibrary.Data.dll
 D:\GameLibrary\Data\GameLibrary.Data\obj\Debug\net5.0\GameLibrary.Data.pdb
 D:\GameLibrary\Data\GameLibrary.Data\obj\Debug\net5.0\GameLibrary.Data.genruntimeconfig.cache
+D:\GameLibrary\Data\GameLibrary.Data\obj\Debug\net5.0\GameLibrary.Data.csproj.CopyComplete

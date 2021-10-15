@@ -1,6 +1,6 @@
 ﻿namespace GameLibrary.Web.ViewModels.Index
 {
-    public class EntityCount
+    public class IndexViewModel
     {
         public int GamesCount { get; set; }
 

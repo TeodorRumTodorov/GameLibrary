@@ -4,7 +4,7 @@
 
     using GameLibrary.Data.Common.Models;
 
-    public interface DeletableEntityRepository<TEntity> : IRepository<TEntity>
+    public interface IDeletableEntityRepository<TEntity> : IRepository<TEntity>
         where TEntity : class, IDeletableEntity
     {
         IQueryable<TEntity> AllWithDeleted();

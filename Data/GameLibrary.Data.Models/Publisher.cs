@@ -15,6 +15,8 @@
 
         public string Description { get; set; }
 
+        public string ImageUrl { get; set; }
+
         public virtual ICollection<Game> Games { get; set; }
 
         public virtual ICollection<ApplicationUser> Followers { get; set; }

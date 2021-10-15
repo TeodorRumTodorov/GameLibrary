@@ -1,4 +1,4 @@
-﻿@model GameLibrary.Web.ViewModels.Index.EntityCount
+﻿@model GameLibrary.Web.ViewModels.Index.IndexViewModel
 @using GameLibrary.Common
 @{
     this.ViewData["Title"] = "Home Page";
@@ -6,12 +6,11 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-    <ul>
-        <li>Categories:@Model.CategoriesCount</li>
-        <li>Games:@Model.GamesCount</li>
-        <li>Publishers:@Model.PublishersCount</li>
-        <li>Creators:@Model.CreatorsCount</li>
-        <li>AplicationUsers:@Model.AplicationUsersCount</li>
+    <ul class="list-group "offset-3 col-6"">
+        <li class="list-group-item bg-info">Categories:@Model.CategoriesCount</li>
+        <li class="list-group-item bg-light">Games:@Model.GamesCount</li>
+        <li class="list-group-item bg-info">Publishers:@Model.PublishersCount</li>
+        <li class="list-group-item bg-light">Creators:@Model.CreatorsCount</li>
+        <li class="list-group-item bg-info">AplicationUsers:@Model.AplicationUsersCount</li>
     </ul>
 </div>

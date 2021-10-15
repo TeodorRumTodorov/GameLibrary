@@ -1,11 +1,16 @@
-﻿using GameLibrary.Data.Common.Models;
-using System;
-using System.Collections.Generic;
-
-namespace GameLibrary.Data.Models
+﻿namespace GameLibrary.Data.Models
 {
+    using System;
+    using System.Collections.Generic;
+
+    using GameLibrary.Data.Common.Models;
+
     public class Game : BaseDeletableModel<int>
     {
+        public Game()
+        {
+            this.GameCategories = new HashSet<GameCategories>();
+        }
         public string Name { get; set; }
 
         public string Description { get; set; }

@@ -1,0 +1,59 @@
+﻿@model GameLibrary.Web.ViewModels.Games.CreateGameInputModel
+@{
+    var creators = Model.Creators.Select(x => new SelectListItem { Text = x.Value, Value = x.Key.ToString() });
+    var publishers = Model.Publishers.Select(x => new SelectListItem { Text = x.Value, Value = x.Key.ToString() });
+    var categories = Model.Categories.Select(x => new SelectListItem { Text = x.Value, Value = x.Key.ToString() });
+}
+
+<h1>Add Game</h1>
+
+<form method="post" class="col-6 offset-3">
+    <div asp-validation-summary="All" class=" text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <input asp-for="Description" class="form-control" />
+        <span asp-validation-for="Description" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ReleaseDate"></label>
+        <input asp-for="ReleaseDate" class="form-control" />
+        <span asp-validation-for="ReleaseDate" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AgeRestriction"></label>
+        <input asp-for="AgeRestriction" class="form-control" />
+        <span asp-validation-for="AgeRestriction" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageUrl"></label>
+        <input asp-for="ImageUrl" class="form-control" />
+        <span asp-validation-for="ImageUrl" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CreatorId"></label>
+        <select asp-for="CreatorId" asp-items="@creators" class="form-control"></select>
+        <span asp-validation-for="CreatorId" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PublisherId"></label>
+        <select asp-for="PublisherId" asp-items="@publishers" class="form-control"></select>
+        <span asp-validation-for="PublisherId" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryIds"></label>
+        <select asp-for="CategoryIds" asp-items="categories" class="form-control" aria-label="Default select example"></select>
+        <span asp-validation-for="CategoryIds" class=" text-danger"></span>
+    </div>
+    
+    <input type="submit" class="btn btn-primary" />
+</form>

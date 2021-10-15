@@ -2,6 +2,7 @@
 {
     using System.Diagnostics;
     using System.Linq;
+
     using GameLibrary.Data;
     using GameLibrary.Web.ViewModels;
     using GameLibrary.Web.ViewModels.Index;
@@ -18,7 +19,7 @@
 
         public IActionResult Index()
         {
-            var viewModel = new EntityCount
+            var viewModel = new IndexViewModel
             {
                 AplicationUsersCount = this.db.ApplicationUsers.Count(),
                 GamesCount = this.db.Games.Count(),

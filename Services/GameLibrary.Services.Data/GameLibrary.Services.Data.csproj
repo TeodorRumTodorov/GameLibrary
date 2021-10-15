@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\GameLibrary.Data.Common\GameLibrary.Data.Common.csproj" />
     <ProjectReference Include="..\..\Data\GameLibrary.Data.Models\GameLibrary.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Web\GameLibrary.Web.ViewModels\GameLibrary.Web.ViewModels.csproj" />
     <ProjectReference Include="..\GameLibrary.Services.Mapping\GameLibrary.Services.Mapping.csproj" />
   </ItemGroup>
 

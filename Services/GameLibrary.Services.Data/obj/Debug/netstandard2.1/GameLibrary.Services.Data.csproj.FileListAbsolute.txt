@@ -14,3 +14,6 @@ D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameL
 D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.csproj.CoreCompileInputs.cache
 D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.dll
 D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Web.ViewModels.dll
+D:\GameLibrary\Services\GameLibrary.Services.Data\bin\Debug\netstandard2.1\GameLibrary.Web.ViewModels.pdb
+D:\GameLibrary\Services\GameLibrary.Services.Data\obj\Debug\netstandard2.1\GameLibrary.Services.Data.csproj.CopyComplete

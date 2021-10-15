@@ -58,13 +58,17 @@
             services.AddSingleton(this.configuration);
 
             // Data repositories
-            services.AddScoped(typeof(DeletableEntityRepository<>), typeof(EfDeletableEntityRepository<>));
+            services.AddScoped(typeof(IDeletableEntityRepository<>), typeof(EfDeletableEntityRepository<>));
             services.AddScoped(typeof(IRepository<>), typeof(EfRepository<>));
             services.AddScoped<IDbQueryRunner, DbQueryRunner>();
 
             // Application services
             services.AddTransient<IEmailSender, NullMessageSender>();
             services.AddTransient<ISettingsService, SettingsService>();
+            services.AddTransient<IPublisherService, PublisherService>();
+            services.AddTransient<ICreatorService, CreatorService>();
+            services.AddTransient<ICategoryService, CategoryService>();
+            services.AddTransient<IGameService, GameService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

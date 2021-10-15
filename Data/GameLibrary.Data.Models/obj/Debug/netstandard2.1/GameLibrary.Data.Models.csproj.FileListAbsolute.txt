@@ -10,4 +10,3 @@ D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary
 D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.csproj.CoreCompileInputs.cache
 D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.dll
 D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.pdb
-D:\GameLibrary\Data\GameLibrary.Data.Models\obj\Debug\netstandard2.1\GameLibrary.Data.Models.csproj.CopyComplete
